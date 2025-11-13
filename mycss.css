@@ -55,7 +55,7 @@ main {
 
 .ctn-main img {
     flex: 1 1 350px;
-    max-width: 100%;
+    max-width: 85%;
     height: auto;
     margin: 10px;
     border-radius: 6px;
